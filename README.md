@@ -1,2 +1,2 @@
 # fastipc-example
-Straightforward example using fastipc nuget package across dotnet frameworks
+Straightforward example using [fast-ipc](https://github.com/dvoaviarison/fast-ipc) nuget package across dotnet frameworks
